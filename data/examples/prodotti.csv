@@ -1,0 +1,31 @@
+prodotto_id,nome_prodotto,categoria,marca,prezzo_listino,stock,fornitore,data_aggiunta
+1,Laptop Dell XPS 15,Elettronica,Dell,899.99,15,TechSupply Inc,2023-01-10
+2,Mouse Logitech MX,Elettronica,Logitech,25.50,150,TechSupply Inc,2023-01-12
+3,Giacca Invernale,Abbigliamento,FashionBrand,120.00,45,StyleWholesale,2023-02-01
+4,Tastiera Meccanica,Elettronica,Corsair,45.99,80,TechSupply Inc,2023-01-15
+5,Lampada LED Design,Casa,HomeStyle,35.00,60,HomeGoods Ltd,2023-02-15
+6,Monitor 27 4K,Elettronica,Samsung,299.99,25,TechSupply Inc,2023-01-20
+7,Scarpe Running,Abbigliamento,SportMax,89.99,70,StyleWholesale,2023-02-20
+8,Cuscino Memory Foam,Casa,ComfortHome,15.50,120,HomeGoods Ltd,2023-03-01
+9,Cuffie Bluetooth,Elettronica,Sony,79.99,95,TechSupply Inc,2023-01-25
+10,Maglietta Cotone,Abbigliamento,BasicWear,25.00,200,StyleWholesale,2023-03-10
+11,Tablet Samsung,Elettronica,Samsung,399.99,30,TechSupply Inc,2023-02-01
+12,Tappeto Persiano,Casa,LuxuryHome,150.00,20,HomeGoods Ltd,2023-03-15
+13,Webcam HD,Elettronica,Logitech,65.00,55,TechSupply Inc,2023-02-10
+14,Pantaloni Jeans,Abbigliamento,DenimPro,55.00,85,StyleWholesale,2023-03-20
+15,Vaso Ceramica,Casa,ArtCraft,12.50,180,HomeGoods Ltd,2023-04-01
+16,iPhone 14,Elettronica,Apple,699.99,20,TechSupply Inc,2023-02-15
+17,Cappello Estivo,Abbigliamento,SunStyle,30.00,100,StyleWholesale,2023-04-10
+18,Specchio Bagno,Casa,ModernHome,45.00,40,HomeGoods Ltd,2023-04-15
+19,Stampante HP,Elettronica,HP,199.99,35,TechSupply Inc,2023-03-01
+20,Cintura Pelle,Abbigliamento,LeatherCraft,20.00,120,StyleWholesale,2023-04-20
+21,Router WiFi 6,Elettronica,TP-Link,89.99,50,TechSupply Inc,2023-03-10
+22,Coperta Lana,Casa,WarmHouse,40.00,65,HomeGoods Ltd,2023-05-01
+23,SSD 1TB,Elettronica,Samsung,120.00,75,TechSupply Inc,2023-03-15
+24,Gonna Elegante,Abbigliamento,ChicStyle,65.00,55,StyleWholesale,2023-05-10
+25,Quadro Moderno,Casa,ArtGallery,85.00,30,HomeGoods Ltd,2023-05-15
+26,Microfono USB,Elettronica,Blue,150.00,40,TechSupply Inc,2023-04-01
+27,Sciarpa Cashmere,Abbigliamento,LuxFashion,25.00,90,StyleWholesale,2023-05-20
+28,Orologio Parete,Casa,TimeDesign,95.00,45,HomeGoods Ltd,2023-06-01
+29,Altoparlante Bluetooth,Elettronica,JBL,120.00,60,TechSupply Inc,2023-04-10
+30,Guanti Pelle,Abbigliamento,WinterWear,15.00,110,StyleWholesale,2023-06-10

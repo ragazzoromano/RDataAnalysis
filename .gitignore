@@ -1,0 +1,115 @@
+# ==============================================================================
+# R Data Analysis .gitignore
+# ==============================================================================
+
+# Output directories
+output/
+grafici/
+results/
+exports/
+
+# Configuration files with sensitive data
+db_config.R
+*_credentials.R
+*_config.R
+!config_template.R
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+.Rapp.history
+
+# R Environment Variables
+.Renviron
+
+# RStudio project files
+*.Rproj
+
+# Temporary files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Local data files (except examples)
+data/*.csv
+data/*.xlsx
+data/*.xls
+data/*.rds
+data/*.rda
+data/*.RData
+
+# Keep example data
+!data/examples/
+!data/examples/*.csv
+!data/examples/*.txt
+
+# Archive and backup directories
+archive/
+backup/
+temp/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Package development
+*.tar.gz
+*.zip
+src/*.o
+src/*.so
+src/*.dll
+
+# Documentation generated files
+docs/_build/
+docs/.doctrees/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Cache directories
+cache/
+__pycache__/
+*.pyc
+
+# Database files (local development)
+*.db
+*.sqlite
+*.sqlite3
+
+# Large files
+*.pdf
+*.docx
+*.pptx
+!docs/*.pdf
+
+# Test outputs
+test_output/
+test_results/
+
+# Compiled code
+*.o
+*.so
+*.dll
+*.exe
+
+# Sensitive or environment-specific
+.env
+.env.local
+secrets/
+credentials/
